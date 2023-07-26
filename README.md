@@ -9,7 +9,7 @@ input
 
 **python-session-2 :**
 comparison of numeric data types
-== operator
+= = operator
 != operator
 >= operator
 comparison of strings
