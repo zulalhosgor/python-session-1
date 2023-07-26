@@ -1,12 +1,10 @@
-# python-sessions
+# python-session-1 :
 
-**python-session-1 :**
-
-# operators
-# indexing
-# slicing
-# casting in strings
-# input
+## operators
+## indexing
+## slicing
+## casting in strings
+## input
 
 **python-session-2 :**
 > comparison of numeric data types
